@@ -299,7 +299,7 @@ export default function SustainabilityPage() {
           </div>
 
           <div className="relative space-y-5">
-            <div className="absolute left-[19px] top-3 bottom-3 w-px bg-white/8" />
+            <div className="absolute left-4.75 top-3 bottom-3 w-px bg-white/8" />
             {goals.map((g) => (
               <div key={g.year} className="flex items-start gap-5">
                 <div
